@@ -1,3 +1,5 @@
+# GitHub: https://github.com/AleksandrZhukovin/KPI_Computer-Vision
+
 from PIL import Image
 import numpy as np
 from matplotlib import pyplot as plt
